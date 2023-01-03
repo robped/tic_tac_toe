@@ -8,11 +8,12 @@
   "devDependencies": {
     "react-scripts": "1.0.0"
   },
-  "name": "wjwuw8",
-  "description": null,
+  "name": "ttt",
+  "description": "tic tac toe game",
   "version": "0.0.0",
   "scripts": {
     "start": "react-scripts start",
+    "stop" : "react-scripts stopn",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
