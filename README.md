@@ -1,1 +1,2 @@
-Try to learn React, Tic Tac Toe tutorial app.
+# Tic Tac Toe
+React app to play the Tic Tac Toe game.
